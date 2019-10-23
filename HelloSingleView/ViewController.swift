@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func button(_ sender: Any) {
-        print("Hello button")
+        print("Hello Button")
     }
     
 }
